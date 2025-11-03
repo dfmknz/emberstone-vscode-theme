@@ -1,0 +1,44 @@
+{
+	"name": "emberstone-theme-vscode",
+	"displayName": "Emberstone Theme",
+	"description": "A Visual Studio Code theme that goes with the Emberstone Omarchy theme.",
+	"version": "0.1.0",
+	"publisher": "dfmknz",
+	"license": "SEE LICENSE IN LICENSE.md",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dfmknz/emberstone-vscode-theme"
+	},
+	"keywords": [
+		"Theme",
+		"Dark Theme",
+		"Omarchy Theme",
+		"Emberstone"
+	],
+	"scripts": {
+		"publish": "vsce publish"
+	},
+	"galleryBanner": {
+		"color": "#28353E",
+		"theme": "dark"
+	},
+	"engines": {
+		"vscode": "^1.17.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "",
+	"contributes": {
+		"themes": [
+			{
+				"label": "Emberstone",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Emberstone.json"
+			}
+		]
+	},
+	"__metadata": {
+		
+	}
+}
