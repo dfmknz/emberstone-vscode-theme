@@ -360,14 +360,14 @@
         "storage.type.property.tsx"
       ],
       "settings": {
-        "foreground": "#8DA5A5"
+        "foreground": "#F8D079"
       }
     },
     {
       "name": "Storage type",
       "scope": "storage.type",
       "settings": {
-        "foreground": "#8DA5A5"
+        "foreground": "#F8D079"
       }
     },
     {
@@ -496,7 +496,7 @@
       "name": "Keyword Operator",
       "scope": "keyword.operator",
       "settings": {
-        "foreground": "#8DA5A5",
+        "foreground": "#F8D079",
         "fontStyle": ""
       }
     },
