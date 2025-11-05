@@ -2,7 +2,7 @@
 	"name": "emberstone-theme-vscode",
 	"displayName": "Emberstone Theme",
 	"description": "A Visual Studio Code theme that goes with the Emberstone Omarchy theme.",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"publisher": "dfmknz",
 	"license": "SEE LICENSE IN LICENSE.md",
 	"repository": {
