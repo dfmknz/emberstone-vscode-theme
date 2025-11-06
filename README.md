@@ -1,3 +1,3 @@
 
 # emberstone-vscode-theme
-A Visual Studio Code theme that goes with the Emberstone Omarchy theme.
+A Visual Studio Code theme designed for the Emberstone Omarchy theme.
